@@ -1,13 +1,13 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "description": "",
+  "name": "dixiewellness",
+  "version": "1.1.0",
+  "description": "A potential revamp to the DSU Student Health and Wellness page",
   "main": "index.js",
   "scripts": {
     "start": "node_modules/.bin/nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "WellnessMonkey",
   "license": "ISC",
   "dependencies": {
     "googleapis": "^27.0.0",
