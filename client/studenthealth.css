@@ -1,0 +1,99 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    flex: none !important;
+}
+
+p, li {
+    font-size:1.2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cmt{
+    text-align: center;
+    padding:20px;
+}
+
+h3, h2 {
+    padding:20px;
+}
+
+h4 {
+    padding:15px;
+}
+
+#books{
+    border-top: 1px solid rgba(0,0,0,.12);
+    background-color: #fff;
+    color: rgba(0,0,0,.87);
+}
+
+.contain {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding-bottom:20px;
+}
+
+.pad{
+    line-height:2em;
+}
+
+iframe {
+    padding:20px;
+}
+
+.home {
+    padding-top:35px;
+}
+
+ul li {
+    line-height:2em;
+}
+
+p {
+    padding-right:20px;
+    padding-left:20px;
+    margin-bottom:0px !important;
+}
+
+.container.fluid {
+    max-width:90% !important;
+}
+
+.hero {
+  display:flex;
+   margin:0 auto;
+   height:auto;
+   width:100%;
+}
+
+.list1 {
+    padding-bottom:20px;
+    padding-right:20px;
+    padding-left:50px;
+}
+
+h3 .click {
+    justify-content:center;
+}
+
+.button {
+    padding:20px 15px;
+}
+
+footer {
+    font-size:.75rem;
+    font-style: italic;
+    text-align: center;
+    padding:15px
+}
+
+footer a {
+    font-size: .75rem;
+}

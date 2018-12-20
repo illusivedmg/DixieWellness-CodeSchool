@@ -1,0 +1,1 @@
+module.exports.BASE_URL = 'mongodb://ds231961.mlab.com:31961/dsustudygroups'
